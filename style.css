@@ -1,8 +1,9 @@
 h1{
     background-color: tomato;
-    text-align: center;
-    height: 300px;
-    color: white;
-    margin: auto;
-    padding-top: 150px;
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+    display: inline;
 }
